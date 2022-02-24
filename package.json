@@ -11,13 +11,21 @@
   "author": "Atmagyan Singh",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^3.1.6",
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "express-handlebars": "^5.3.3",
     "pug": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Black-Devil007/Shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Black-Devil007/Shop/issues"
+  },
+  "homepage": "https://github.com/Black-Devil007/Shop#readme"
 }
